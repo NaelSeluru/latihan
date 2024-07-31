@@ -36,23 +36,23 @@ Berikut adalah panduan untuk menggunakan aplikasi ini:
 3. Setelah login, aplikasi akan menampilkan dashboard yang berisi informasi tentang data siswa
 
 CRUD
-##Tambah Data
+## Tambah Data
 1. Klik tombol "Tambah Data"
 2. Isi form yang tersedia
 3. Klik tombol "Simpan"
 (Per akun hanya bisa melakukan CRUD pada data yang dimiliki dan hanya bisa menambah data 1 kali saja)
 
-##Hapus Data
+## Hapus Data
 1. Klik tombol "Delete"
 2. Klik tombol "Yes"
 
-##Ubah Data
+## Ubah Data
 1. Klik tombol "Edit"
 2. Isi form yang tersedia
 3. Klik tombol "Simpan"
 
 Profile
-##Foto Profil
+## Foto Profil
 1. Klik username yang ada di sidebar yang ada di samping kanan atas dengan nama yang sama dengan username yang digunakan untuk login
 2. Klik tombol "Profile"
 3. Klik tombol "Choose File" (maksimal ukuran file 2MB)
