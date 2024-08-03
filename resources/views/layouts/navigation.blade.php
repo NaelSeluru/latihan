@@ -26,7 +26,9 @@
                             <div class="me-2">
                                 <img src="{{ url((string) Auth::user()->profile_picture) }}" alt="Profile Picture" class="h-8 w-8 rounded-full object-cover">
                             </div>
-                            <div>{{ Auth::user()->name }}</div>
+                            <div>{{ Auth::user()->name }}
+                            <p>{{ Auth::user()->role }}</p>
+                            </div>
                             
 
                             <div class="ms-1">
